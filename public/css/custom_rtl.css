@@ -1,0 +1,184 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+* ,.font-roboto-slab ,h4,h5,h4.widget-title , .menuzord-menu > li a , h3.font-weight-500 , h2.title , h2,h3 , #myTab >li a{
+     font-family: 'Droid Arabic Kufi', serif ;
+}
+*{
+    font-size: 12px;
+}
+
+
+.error-sms{
+    color: red;
+    padding-left: 250px;
+    font-size: 11px;
+}
+.error-sms1{
+    color: red;
+    padding-left: 125px;
+    font-size: 11px;
+}
+.black{
+    color:black;
+}
+
+
+.video_thumbnail img{
+    height:180px ;
+}
+
+a.author-thumb.user-profile-thumb.dropdown-toggle{
+    margin-top: 15px;
+}
+
+.carousel-inner .item img{
+    max-height: 585px;
+    width: 100%;
+}
+.carousel-caption h1{
+    color: #00C3CB;
+    opacity: 0.8;
+}
+
+.course-thumb img{
+    height: 300px;
+}
+
+.fcor{
+    margin-top: 68px;
+}
+
+.cordetails img{
+    height: 505px;
+}
+.instructor-img{
+    height: 300px;
+}
+
+.service-img{
+    height: 550px;
+}
+
+.blog-img{
+    height: 200px;
+}
+
+.corthumb img{
+    height: 230px;
+}
+
+.post-img-thumb img{
+    width:55px;
+    height: 55px;
+}
+.course-tec-thumb img{
+    width: 54px;
+    height: 54px;
+    float: right;
+}
+
+.newsletter {
+    padding: 30px 0;
+    background: #19beda;
+}
+
+.newsletter .content {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; }
+.newsletter .content h2 {
+    color: #243c4f;
+    margin-bottom: 20px; }
+.newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius:0;
+}
+.newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+    min-height: 50px;
+    border-radius:0;
+    background: #243c4f;
+    color: #fff;
+    font-weight:600;
+}
+
+.login-page{
+    height: 100%;
+}
+
+.user-img{
+    width: 400px;
+    height: 400px;
+}
+
+
+#user-reply-img{
+    width: 60px;
+    height: 60px;
+}
+
+.user-profile-thumb img{
+    width: 35px;
+    height: 35px;
+    padding: 2px;
+}
+
+.user-img-thumb img{
+    width: 54px;
+    height: 54px;
+}
+
+
+.event-img img{
+    height: 250px;
+}
+
+
+ul li a.text-gray{
+    font-size: larger;
+}
+
+.header-top .widget ul li a{
+    font-size: larger;
+}
+
+span.text-theme-colored2{
+    font-size: 1.5rem;
+}
+
+.course-top-part{
+    float: left;
+}
+
+span.odometer-digit{
+font-size: 14px !important;
+ }
+
+
+
+nav.user_email  ul {
+    margin-top: -18px;
+    margin-bottom: -18px;
+    max-height: 150px;
+    color: white;
+}
+nav.user_email ul.menuzord-menu li a {
+    color: white !important;
+}
+nav.user_email ul.menuzord-menu li a:hover {
+    background-color: #00c3cb;
+}
+
+
+nav.user_email ul.menuzord-menu li ul li a {
+    color: black !important;
+}
+
+button.msg_send_btn {
+    float:left;
+}
